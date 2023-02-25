@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580305241803",
+    "project_id": "newodisha-38555",
+    "storage_bucket": "newodisha-38555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580305241803:android:b4a645f8a1541a8b3e3d4e",
+        "android_client_info": {
+          "package_name": "com.example.newodisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580305241803-8dq1ob3g5mi9ils9v9aqgbi5oiq79lc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTwG84B-hsdWoMrW1x0xQ9dCXz-Dpbgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580305241803-8dq1ob3g5mi9ils9v9aqgbi5oiq79lc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
